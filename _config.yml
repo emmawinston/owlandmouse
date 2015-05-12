@@ -2,7 +2,7 @@
 title: Owl & Mouse
 email: owlnmouse@gmail.com
 url: http://emmawinston.github.io/owlandmouse
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Owl & Mouse are a five-piece band from London, writing and performing bittersweet, open-hearted indiepop songs with a folk tinge."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Owl & Mouse
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
