@@ -379,8 +379,18 @@ body {
     margin: 0 auto;
 }
 
-.carousel-button-left, .carousel-button-right {
+.carousel-button-left {
     display: block;
     position: absolute;
     top: 50%;
+    left: 0;
+    margin-left: 10px;
+}
+
+.carousel-button-right {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    margin-right: 10px;
 }
