@@ -7,7 +7,7 @@ description: "Owl & Mouse are a five-piece band from London, writing and perform
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#00588e'
 
 # Footer settings
 footer: Owl & Mouse

@@ -313,8 +313,8 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid {{ site.color.links }};
-    color: {{ site.color.links }};
+    border: 1px solid #00588e;
+    color: #00588e;
     background-color: transparent;
 }
 
@@ -326,10 +326,10 @@ a:focus {
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid {{ site.color.links }};
+    border: 1px solid #00588e;
     outline: 0;
     color: {{ site.color.primary-dark }};
-    background-color: {{ site.color.links }};
+    background-color: #00588e;
 }
 
 .music-section .btn-default:hover,

@@ -3,9 +3,32 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact</h2>
-                <p>Dolor reprehenderit repellendus, optio labore odio at tempore debitis nisi. Quasi debitis tenetur eaque molestias non porro odio sapiente.</p>
+                <p>If you'd like to get in touch to discuss bookings, or just for a chat, you can do so below.</p>
                 <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
                 </p>
+
+                <div class="form">
+    <form action="//formspree.io/owlnmouse@gmail.com"
+      method="POST">
+      <div class="form-group">
+        <label>Name</label><input type="text" name="name" class="form-control">
+    </div>
+    <div class="form-group">
+    <label>Email</label><input type="email" name="_replyto" class="form-control">
+</div>
+    <input type="text" name="_gotcha" style="display:none" />
+
+    <div class="form-group">
+    <label>Message</label>
+    <textarea name="body" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+    <input type="submit" value="Send" class="btn btn-default btn-lg">
+    </div>
+</form>
+
+<p>&nbsp;</p>
+
                 <ul class="list-inline banner-social-buttons">
                     {% for network in site.social %}
                     <li>
