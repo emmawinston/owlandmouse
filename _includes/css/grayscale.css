@@ -380,6 +380,7 @@ body {
 }
 
 .carousel-button-left, .carousel-button-right {
+    display: block;
     position: absolute;
     top: 50%;
 }
