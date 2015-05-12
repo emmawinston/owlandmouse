@@ -260,7 +260,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: #000 url(http://emmawinston.github.io/owlandmouse/img/downloads-bg.jpg) no-repeat center center scroll;
+    background: #000 url(http://emmawinston.github.io/owlandmouse/img/inbound.jpg) no-repeat center center scroll;
     background-opacity: 0.5;
     /* background-color: {{ site.color.primary-dark }}; */
     -webkit-background-size: cover;
@@ -273,7 +273,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: #000 url(http://emmawinston.github.io/owlandmouse/img/inbound.jpg) no-repeat center center scroll;
+    background: #000 url(http://emmawinston.github.io/owlandmouse/img/downloads-bg.jpg) no-repeat center center scroll;
     background-opacity: 0.5;
     /* background-color: {{ site.color.primary-dark }}; */
     -webkit-background-size: cover;
