@@ -384,7 +384,7 @@ body {
     position: absolute;
     top: 50%;
     left: 0;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .carousel-button-right {
@@ -392,5 +392,5 @@ body {
     position: absolute;
     top: 50%;
     right: 0;
-    margin-right: 10px;
+    margin-right: 20px;
 }
