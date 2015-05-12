@@ -318,12 +318,26 @@ a:focus {
     background-color: transparent;
 }
 
+.music-section .btn-default {
+    border: 1px solid #fff;
+    color: #fff;
+    background-color: transparent;
+}
+
 .btn-default:hover,
 .btn-default:focus {
     border: 1px solid {{ site.color.links }};
     outline: 0;
     color: {{ site.color.primary-dark }};
     background-color: {{ site.color.links }};
+}
+
+.music-section .btn-default:hover,
+.music-section .btn-default:focus {
+    border: 1px solid #fff;
+    outline: 0;
+    color: {{ site.color.primary-dark }};
+    background-color: #fff;
 }
 
 ul.banner-social-buttons {
